@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "plugin:react/recommended"
+  ],
+  "plugins": [
+    "react"
+  ],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}
